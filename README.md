@@ -11,7 +11,3 @@ check out my [website](https://onurgurbuz.github.io/) :eyes:
 - 💬 ask me about all of my repos
 - 📫 how to reach me: onurgurbuz.yazilim@gmail.com
 - ⚡ fun fact: :horse:
-
-<!-- GITHUB TOP LANGUAGES:END -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurgurbuz&hide=css,html)
-<!-- GITHUB TOP LANGUAGES:END -->
