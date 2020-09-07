@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="left">hi 👋, i am onur</h1>
+<h3 align="left">web & mobile app developer</h3>
 
-<!--
-**onurgurbuz/onurgurbuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=onurgurbuz" alt="onurgurbuz" /> </p>
 
-Here are some ideas to get you started:
+check out my [website](https://onurgurbuz.github.io/) :eyes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+here are some ideas to get you started:
+
+- 🔭 i am currently working on .net core, android(java), ios(swift)
+- 🌱 i am currently learning flutter
+- 💬 ask me about all of my repos
+- 📫 how to reach me: onurgurbuz.yazilim@gmail.com
+- ⚡ fun fact: :horse:
+
+<!-- GITHUB TOP LANGUAGES:END -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurgurbuz&hide=css,html)
+<!-- GITHUB TOP LANGUAGES:END -->
