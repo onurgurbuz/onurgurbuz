@@ -1,4 +1,4 @@
-<h1 align="left">hi 👋, i am onur</h1>
+<h1 align="left">hi, i am onur</h1>
 <h3 align="left">web & mobile app developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onurgurbuz" alt="onurgurbuz" /> </p>
