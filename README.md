@@ -5,7 +5,6 @@
 
 check out my [website](https://onurgurbuz.github.io/) :eyes:
 
-here are some ideas to get you started:
 
 - 🔭 i am currently working on .net core, android(java), ios(swift)
 - 🌱 i am currently learning flutter
