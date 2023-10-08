@@ -7,8 +7,7 @@ check out my [website](https://onurgurbuz.github.io/) :eyes:
 
 
 - 🔭 i am currently working on ios(swift)
-- 🌱 i am currently learning flutter and kotlin
-- ⌛️ i worked on ios(swift), android(java), .net core, angular js
+- ⌛️ i worked on ios(swift), android(java), flutter, .net core, angular js
 - 💬 ask me about all of my repos
 - 📫 how to reach me: onurgurbuz.yazilim@gmail.com
 - ⚡ fun fact: :horse:
